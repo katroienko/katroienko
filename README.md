@@ -33,6 +33,7 @@ The project is a modern online store developed from start to finish: from workin
 ✅ **Reusable components**: Button, PageLayout, Title.
 
 ✅ Styling partially done with **MUI**.
+
 <p align="left">
 ⚙️ Technical Features
 🧮 React 

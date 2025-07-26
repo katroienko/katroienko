@@ -1,14 +1,54 @@
-
-
-# [DMV Test Prep](https://apps.apple.com/us/app/dmv-test-prep-by-testologie/id1615856862) 
+# [DMV Test Prep](https://github.com/katroienko/pet-shop-frontend/tree/master) 
+# [DMV Test Prep](https://github.com/katroienko/pet-shop-backend) 
 <p align="left"> <a href="https://apps.apple.com/us/app/dmv-test-prep-by-testologie/id1615856862" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" >  <a href="https://play.google.com/store/apps/details?id=app.testologie.dmv" download><img src="https://user-images.githubusercontent.com/33416429/180564555-b73c1a70-1409-4b9b-a22f-32c7c4a2d3e9.png" width="170" > </a>
 </p>
+Pet Shop
+📌 Brief Description
+The project is a modern online store developed from start to finish: from working with the design mockup to full backend integration. The project features dynamic product filtering, modal windows, order form processing, and many technical improvements for optimal app performance.
 
-* DMV Test Prep - it's cross-platform mobile application build in Flutter;
-* As s sole developer I fully designed and implemented front-end and back-end solutions;
-* Server side is built with Swift programming language (Vapor framework). Hosted on Heroku;
-* Database - PostgresQL. Hosted on AWS.
+🧠 This project was a real breakthrough for me — I’m proud to have created an almost complete website that I’m not ashamed to share with friends and potential employers. 💬 I really enjoyed working on this project. It’s great that I was able to build a nearly fully functional site with real features and a beautiful UI.
+🧩 Main Functionality
+✅ Correct product filtering with backend requests.
 
+✅ Passing search parameters in the URL — allowing sharing of filtered pages.
+
+✅ Modal window after placing an order.
+
+✅ Form processing with data submission.
+
+✅ Contacts dynamically loaded from a separate JS file (GC).
+
+✅ Full compliance with the design mockup.
+
+✅ Pagination implemented using usePagination.
+
+✅ Redux Thunk — separate slices implemented for products, categories, and cart.
+
+✅ Reusable components: Button, PageLayout, Title.
+
+✅ Styling partially done with MUI.
+
+⚙️ Technical Features
+🧮 Custom hooks (useFetch and others).
+
+🔍 Logging of full URL with parameters for debugging.
+
+🧱 Request decorator with ID and support for multiple parameters.
+
+⚡ Memoization with React.memo, useMemo, useCallback — for optimization.
+
+✂️ Trimming strings coming from the backend — managing displayed text.
+
+🧑‍💻 What I Learned
+How to properly organize Redux architecture using Thunk.
+
+How to implement convenient and precise filtering with state saved in the URL.
+
+How to optimize component rendering.
+
+How to combine styling using MUI and CSS modules.
+
+How to deploy backend and frontend.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/33416429/180520043-f54ad385-3d75-441a-95d3-ecd5b0cc548d.png" width="930" title="DMV Test Prep">
 

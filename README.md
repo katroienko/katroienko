@@ -59,7 +59,7 @@ How to combine styling using MUI and CSS modules.
 
 How to deploy backend and frontend.
 <p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/180520043-f54ad385-3d75-441a-95d3-ecd5b0cc548d.png" width="930" title="DMV Test Prep">
+<img src="https://github.com/katroienko/pet-shop-frontend/blob/master/petPhoto/1.jpg" width="930" title="DMV Test Prep">
 
 </p>
 

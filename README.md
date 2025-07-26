@@ -59,9 +59,9 @@ How to combine styling using MUI and CSS modules.
 
 How to deploy backend and frontend.
 <p align="center">
-<img src="https://github.com/katroienko/pet-shop-frontend/blob/master/petPhoto/1.jpg" width="930" title="DMV Test Prep">
-
+  <img src="https://github.com/katroienko/pet-shop-frontend/blob/master/petPhoto/1.jpg?raw=true" width="600" title="Pet Shop Screenshot">
 </p>
+
 
 # [DroneMobile](https://apps.apple.com/us/app/dronemobile/id380549030) 
 <p align="left"> <a href="https://apps.apple.com/us/app/dronemobile/id380549030" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" >; </a>

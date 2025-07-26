@@ -33,8 +33,7 @@ The project is a modern online store developed from start to finish: from workin
 ✅ **Reusable components**: Button, PageLayout, Title.
 
 ✅ Styling partially done with **MUI**.
-&nbsp;&nbsp;
-
+<p align="left">
 ⚙️ Technical Features
 🧮 React 
 🧮 Custom hooks (**useFetch and others**).
@@ -46,7 +45,7 @@ The project is a modern online store developed from start to finish: from workin
 ⚡ Memoization with **React.memo, useMemo, useCallback** — for optimization.
 
 ✂️ Trimming strings coming from the backend — managing displayed text.
-&nbsp;&nbsp;
+</p>
 
 🧑‍💻 What I Learned
 How to properly organize Redux architecture using Thunk.

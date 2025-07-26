@@ -7,36 +7,39 @@ The project is a modern online store developed from start to finish: from workin
 
 🧠 This project was a real breakthrough for me — I’m proud to have created an almost complete website that I’m not ashamed to share with friends and potential employers. 💬 I really enjoyed working on this project. It’s great that I was able to build a nearly fully functional site with real features and a beautiful UI.
 🧩 Main Functionality
-✅ Correct product filtering with backend requests.
+✅ **Correct product filtering with backend requests.**
 
-✅ Passing search parameters in the URL — allowing sharing of filtered pages.
+✅ **Passing search parameters in the URL** — allowing sharing of filtered pages.
 
-✅ Modal window after placing an order.
+✅ **Modal window** after placing an order.
 
-✅ Form processing with data submission.
+✅ **Form processing** with data submission.
 
 ✅ Contacts dynamically loaded from a separate JS file (GC).
 
 ✅ Full compliance with the design mockup.
 
-✅ Pagination implemented using usePagination.
+✅ **Pagination** implemented using usePagination.
 
-✅ Redux Thunk — separate slices implemented for products, categories, and cart.
+✅ **Redux Thunk** — separate slices implemented for products, categories, and cart.
 
-✅ Reusable components: Button, PageLayout, Title.
+✅ **Reusable components**: Button, PageLayout, Title.
 
-✅ Styling partially done with MUI.
+✅ Styling partially done with **MUI**.
+
 
 ⚙️ Technical Features
-🧮 Custom hooks (useFetch and others).
+  ** React **
+🧮 Custom hooks (**useFetch and others**).
 
 🔍 Logging of full URL with parameters for debugging.
 
 🧱 Request decorator with ID and support for multiple parameters.
 
-⚡ Memoization with React.memo, useMemo, useCallback — for optimization.
+⚡ Memoization with **React.memo, useMemo, useCallback** — for optimization.
 
 ✂️ Trimming strings coming from the backend — managing displayed text.
+
 
 🧑‍💻 What I Learned
 How to properly organize Redux architecture using Thunk.

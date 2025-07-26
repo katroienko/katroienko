@@ -1,4 +1,4 @@
-# [DMV Test Prep](https://pet-shop-frontend-ten.vercel.app/) 
+# [Pet Shop web site](https://pet-shop-frontend-ten.vercel.app/) 
 <p align="left"> <a href="https://github.com/katroienko/pet-shop-frontend/tree/master" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" >  <a href="https://github.com/katroienko/pet-shop-backend" download><img src="https://user-images.githubusercontent.com/33416429/180564555-b73c1a70-1409-4b9b-a22f-32c7c4a2d3e9.png" width="170" > </a>
 </p>
 Pet Shop

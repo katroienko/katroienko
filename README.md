@@ -60,17 +60,9 @@ How to combine styling using MUI and CSS modules.
 How to deploy backend and frontend.
 <p align="center">
   <img src="https://github.com/katroienko/pet-shop-frontend/blob/master/petPhoto/1.jpg?raw=true" width="200" title="Pet Shop Screenshot">
-</p>
-<p align="center">
   <img src="https://github.com/katroienko/pet-shop-frontend/blob/master/petPhoto/2.jpg?raw=true" width="200" title="Pet Shop Screenshot">
-</p>
-<p align="center">
   <img src="https://github.com/katroienko/pet-shop-frontend/blob/master/petPhoto/3.jpg?raw=true" width="200" title="Pet Shop Screenshot">
-</p>
-<p align="center">
   <img src="https://github.com/katroienko/pet-shop-frontend/blob/master/petPhoto/4.jpg?raw=true" width="200" title="Pet Shop Screenshot">
-</p>
-<p align="center">
   <img src="https://github.com/katroienko/pet-shop-frontend/blob/master/petPhoto/5.jpg?raw=true" width="200" title="Pet Shop Screenshot">
 </p>
 

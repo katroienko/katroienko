@@ -63,7 +63,7 @@ How to deploy backend and frontend.
   <img src="https://github.com/katroienko/pet-shop-frontend/blob/master/petPhoto/2.jpg?raw=true" width="200" title="Pet Shop Screenshot">
   <img src="https://github.com/katroienko/pet-shop-frontend/blob/master/petPhoto/3.jpg?raw=true" width="200" title="Pet Shop Screenshot">
   <img src="https://github.com/katroienko/pet-shop-frontend/blob/master/petPhoto/4.jpg?raw=true" width="200" title="Pet Shop Screenshot">
-  <img src="https://github.com/katroienko/pet-shop-frontend/blob/master/petPhoto/5.jpg?raw=true" width="200" title="Pet Shop Screenshot">
+  <img src="https://github.com/katroienko/pet-shop-frontend/blob/master/petPhoto/5.jpg?raw=true" width="150" title="Pet Shop Screenshot">
 </p>
 
 # [DroneMobile](https://apps.apple.com/us/app/dronemobile/id380549030) 

@@ -66,11 +66,47 @@ How to deploy backend and frontend.
   <img src="https://github.com/katroienko/pet-shop-frontend/blob/master/petPhoto/5.jpg?raw=true" width="150" title="Pet Shop Screenshot">
 </p>
 
-# [DroneMobile](https://apps.apple.com/us/app/dronemobile/id380549030) 
-<p align="left"> <a href="https://apps.apple.com/us/app/dronemobile/id380549030" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" >; </a>
+# [animal-eshop-backend_final_NODE.JS](https://github.com/katroienko/animal-eshop-backend_final_nodeJS/tree/main) 
+<p align="left">
+   <a href="https://github.com/katroienko/animal-eshop-backend_final_nodeJS/tree/main" target="_blank" style="text-decoration:none;">
+    <button style="padding:10px 20px; font-size:16px; cursor:pointer;">Look Back-End code</button>
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://github.com/katroienko/pet-shop-frontend/tree/master" target="_blank" style="text-decoration:none;">
+    <button style="padding:10px 20px; font-size:16px; cursor:pointer;">Look Front-End code</button>
+  </a>
 </p>
+## 🚀 Tech Stack
 
-* DroneMobile - A native iOS IoT application used to remotely control vehicle
+- **Node.js** + **Express.js** — RESTful API
+- **MongoDB** + **Mongoose** — remote database
+- **WebSocket** — real-time communication
+- **jsonwebtoken (JWT)** — token-based authentication
+- **bcrypt** — secure password hashing
+- **multer** — file/image upload
+- **cors** — cross-origin requests
+- **dotenv** — environment variable management
+
+---
+
+## 🔐 Authentication & Roles
+
+- JWT-based login and registration
+- Role-based access control:
+  - `superadmin`
+  - `admin`
+  - `manager`
+  - `user`
+- Middlewares:
+  - `authenticate` — validates JWT
+  - `isSuperadmin` — restricts access to superadmins
+
+  <p align="left">
+   <a href="https://github.com/katroienko/animal-eshop-backend_final_nodeJS/tree/main" target="_blank" style="text-decoration:none;">
+    <button style="padding:10px 20px; font-size:16px; cursor:pointer;">CONTINUE TO READ IN FILE README.md</button>
+  </a>
+  </p>
+
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/33416429/180519121-f37b948e-987a-4976-8585-4144ec2b6c80.png" width="930" title="DroneMobile">

@@ -102,7 +102,7 @@ How to deploy backend and frontend.
   - `isSuperadmin` — restricts access to superadmins
 
   <p align="left">
-   <a href="https://github.com/katroienko/animal-eshop-backend_final_nodeJS/tree/main" target="_blank" style="text-decoration:none;">
+   <a href="https://github.com/katroienko/animal-eshop-backend_final_nodeJS/edit/main/README.md" target="_blank" style="text-decoration:none;">
     <button style="padding:10px 20px; font-size:16px; cursor:pointer;">CONTINUE TO READ IN FILE README.md</button>
   </a>
   </p>

@@ -7,11 +7,12 @@
   <a href="https://github.com/katroienko/pet-shop-backend" target="_blank" style="text-decoration:none;">
     <button style="padding:10px 20px; font-size:16px; cursor:pointer;">Look Back-End code</button>
   </a>
-</p>
- &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://pet-shop-frontend-ten.vercel.app/" target="_blank" style="text-decoration:none;">
     <button style="padding:10px 20px; font-size:16px; cursor:pointer;">Look web site</button>
   </a>
+</p>
+ 
 Pet Shop
 📌 Brief Description
 The project is a modern online store developed from start to finish: from working with the design mockup to full backend integration. The project features dynamic product filtering, modal windows, order form processing, and many technical improvements for optimal app performance.

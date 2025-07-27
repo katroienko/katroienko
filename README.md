@@ -33,7 +33,7 @@ The project is a modern online store developed from start to finish: from workin
 
 ✅ **Pagination** implemented using usePagination.
 
-✅ **Redux Thunk** — separate slices implemented for products, categories, and cart.
+✅  **Redux Toolkit** **Redux Thunk** — separate slices implemented for products, categories, and cart.
 
 ✅ **Reusable components**: Button, PageLayout, Title.
 

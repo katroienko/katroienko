@@ -204,31 +204,6 @@ A high‑performance **RESTful API** built with **Node.js + Express** for real e
   </a>
   </p>
 
-# [PUMB Online](https://apps.apple.com/ua/app/пумб-online/id1373626840) 
-<p align="left"> <a href="https://apps.apple.com/ua/app/пумб-online/id1373626840" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" ></a>
-</p>
-
-* PUMB Online - A native iOS online banking app which helps people to manage their finance
-* PUMB Online has more than 1 000 000 users, #5 finance app in Ukrainian AppStore, rating 4.8. Crash free users - 99.89 %
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/93138739-516e5780-f694-11ea-8578-3f16db1bc263.png" width="930" title="PUMBOnline">
-
-# [Straight Ur Back](https://apps.apple.com/us/app/id1531009911) 
-<p align="left"> <a href="https://apps.apple.com/us/app/id1531009911" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" ></a>
-</p>
-Straight Ur Back is an application that reminds you to keep your back straight. You can choose a time interval and how often you want to receive notifications. 
-
-* MVP (Model-View-Presenter) architecture
-* Firebase Analytics
-* UserDefaults
-* Local Notifications
-* Fully programmatically UI 
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/92800949-05f13c00-f36a-11ea-8d58-513b0d759c96.jpg" width="230" title="StraightUrBack">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/92800926-02f64b80-f36a-11ea-9213-904f52359a83.jpg" width="230" title="StraightUrBack">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/92800943-0558a580-f36a-11ea-94b6-15d054a5e51f.jpg" width="230" title="StraightUrBack">
-
-</p>
 
 
 
@@ -237,4 +212,4 @@ Straight Ur Back is an application that reminds you to keep your back straight. 
 # Contact Info:
 
 - Email: roienkokateryna@gmail.com
-- LinkedIn: [decodealex](https://www.linkedin.com/in/kateryna-roienko/) 
+- LinkedIn: [katroienko](https://www.linkedin.com/in/kateryna-roienko/) 

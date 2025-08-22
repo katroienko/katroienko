@@ -111,7 +111,6 @@ I created **Pet Shop** — an online store with a real-world feature set:
     <button style="padding:10px 20px; font-size:16px; cursor:pointer;">Look Front-End code</button>
   </a>
 </p>
-# 🛒 Node.js Backend for an Online Store
 <p align="left">
 📖 Available in:  
 <a href="https://github.com/katroienko/animal-eshop-backend_final_nodeJS/blob/main/docs/README.ru.md" target="_blank" style="text-decoration:none;">

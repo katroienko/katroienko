@@ -12,7 +12,9 @@
     <button style="padding:10px 20px; font-size:16px; cursor:pointer;">Look web site</button>
   </a>
 </p>
-📖 [Прочитать на русском](https://github.com/katroienko/pet-shop-frontend/blob/master/docs/README.ru.md) 📖 [Auf Deutsch lesen](./README.de.md)
+📖 Available in:  
+ [🇷🇺 Русский](docs/README.ru.md) | [🇩🇪 Deutsch](docs/README.de.md)
+📖 [Прочитать на русском](https://github.com/katroienko/pet-shop-frontend/blob/master/docs/README.ru.md )📖 [Auf Deutsch lesen]
  
 # 🐾 Pet Shop — Online Store  
 

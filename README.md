@@ -15,7 +15,8 @@
 📖 Available in:  
 <a href="https://github.com/katroienko/pet-shop-frontend/blob/master/docs/README.ru.md" target="_blank" style="text-decoration:none;">
     <button style="padding:10px 20px; font-size:16px; cursor:pointer;"> [🇷🇺 Русский]</button>
-  </a> <a href="https://github.com/katroienko/pet-shop-frontend/blob/master/docs/README.ru.md" target="_blank" style="text-decoration:none;">
+  </a> 
+  <a href="https://github.com/katroienko/pet-shop-frontend/blob/master/docs/README.ru.md" target="_blank" style="text-decoration:none;">
     <button style="padding:10px 20px; font-size:16px; cursor:pointer;"> [🇩🇪 Deutsch]</button>
  </a>
 

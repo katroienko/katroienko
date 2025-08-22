@@ -180,12 +180,6 @@ A high‑performance **RESTful API** built with **Node.js + Express** for real e
 ---
 
 ## 📦 Tech Stack (at a glance)
-
-**Node.js, TypeScript, Express.js, MongoDB, Mongoose, WebSocket, JSON Web Token (JWT), bcrypt, Multer, CORS, dotenv, RBAC**
-
-
-## 🚀 Tech Stack
-
 - **Node.js** + **Express.js** — RESTful API
 - **MongoDB** + **Mongoose** — remote database
 - **WebSocket** — real-time communication
@@ -196,19 +190,6 @@ A high‑performance **RESTful API** built with **Node.js + Express** for real e
 - **dotenv** — environment variable management
 
 ---
-
-## 🔐 Authentication & Roles
-
-- JWT-based login and registration
-- Role-based access control:
-  - `superadmin`
-  - `admin`
-  - `manager`
-  - `user`
-- Middlewares:
-  - `authenticate` — validates JWT
-  - `isSuperadmin` — restricts access to superadmins
-
   <p align="left">
    <a href="https://github.com/katroienko/animal-eshop-backend_final_nodeJS/blob/main/README.md" target="_blank" style="text-decoration:none;">
     <button style="padding:10px 20px; font-size:16px; cursor:pointer;">CONTINUE TO READ IN FILE README.md</button>

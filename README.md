@@ -112,10 +112,18 @@ I created **Pet Shop** — an online store with a real-world feature set:
   </a>
 </p>
 # 🛒 Node.js Backend for an Online Store
+📖 Available in:  
+<a href="https://github.com/katroienko/animal-eshop-backend_final_nodeJS/blob/main/docs/README.ru.md" target="_blank" style="text-decoration:none;">
+    <button style="padding:10px 20px; font-size:16px; cursor:pointer;"> [🇷🇺 Русский]</button>
+  </a> 
+  <a href="https://github.com/katroienko/pet-shop-frontend/blob/master/docs/README.ru.md" target="_blank" style="text-decoration:none;">
+    <button style="padding:10px 20px; font-size:16px; cursor:pointer;"> [🇩🇪 Deutsch]</button>
+ </a>
+
 
 A high‑performance **RESTful API** built with **Node.js + Express** for real e‑commerce scenarios: secure **JWT** authentication, role‑based access (**RBAC**), product/order management, image uploads (**Multer**), and **real‑time** events via **WebSocket** (order statuses, admin notifications). Data is stored in **MongoDB** with models defined via **Mongoose**.
 
-> **Impact:** Reduced order processing time and improved checkout reliability through REST architecture, RBAC, WebSocket status updates, secure JWT authentication, and MongoDB/Mongoose. *(Insert your metrics: p95 ↓ X%, 5xx ↓ Y%.)*
+> **Impact:** Reduced order processing time and improved checkout reliability through REST architecture, RBAC, WebSocket status updates, secure JWT authentication, and MongoDB/Mongoose. 
 
 ---
 

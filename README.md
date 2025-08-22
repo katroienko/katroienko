@@ -13,56 +13,77 @@
   </a>
 </p>
  
-Pet Shop
-📌 Brief Description
-The project is a modern online store developed from start to finish: from working with the design mockup to full backend integration. The project features dynamic product filtering, modal windows, order form processing, and many technical improvements for optimal app performance.
+# 🐾 Pet Shop — Online Store  
 
-🧠 This project was a real breakthrough for me — I’m proud to have created an almost complete website that I’m not ashamed to share with friends and potential employers. 💬 I really enjoyed working on this project. It’s great that I was able to build a nearly fully functional site with real features and a beautiful UI.
-🧩 Main Functionality
-✅ **Correct product filtering with backend requests.**
+A modern **full-stack e-commerce project** built from scratch with full **frontend + backend** integration.  
+The app features dynamic product filtering, a shopping cart, checkout flow, breadcrumbs for navigation, and optimized performance.  
 
-✅ **Passing search parameters in the URL** — allowing sharing of filtered pages.
+---
 
-✅ **Modal window** after placing an order.
+## 🔹 Problem  
+Most educational e-commerce projects are limited to static pages or primitive filtering.  
+As a result, users cannot quickly find the right product, and employers have difficulty evaluating the developer’s real skill level.  
 
-✅ **Form processing** with data submission.
+---
 
-✅ Contacts dynamically loaded from a separate JS file (GC).
+## 🔹 Solution  
+I created **Pet Shop** — an online store with a real-world feature set:  
+- Dynamic filtering with **URL-synchronized state**  
+- Shopping cart and checkout with validation  
+- Scalable architecture with **Redux Toolkit + Thunk**  
+- Reusable UI components and responsive design  
+- Improved **SEO** with breadcrumbs  
 
-✅ Full compliance with the design mockup.
+---
 
-✅ **Pagination** implemented using usePagination.
+## 🚀 Key Features  
 
-✅  **Redux Toolkit** **Redux Thunk** — separate slices implemented for products, categories, and cart.
+- 🔎 **URL-synchronized filters (state in URL)** → sharable links, state persists after reload  
+- ⚡ **Server-side filtering** → accurate results on large catalogs, less mobile traffic  
+- ♿ **Accessible modals (focus trap, aria-*)** → keyboard/screen reader support, no accidental scrolls  
+- 📄 **Custom pagination (usePagination)** → predictable navigation, saved scroll position  
+- 🗂 **Redux Toolkit + Thunk** → single source of truth, safe against race conditions  
+- 🧠 **Memoization (React.memo, useMemo, useCallback)** → fewer re-renders, smoother UI  
+- 🧭 **Breadcrumbs** → clear navigation, SEO improvement  
+- 🛡 **Request decorator** → cancellation of outdated responses, always fresh UI state  
+- 📝 **Form validation & error handling** → clear messages, no lost data, smoother checkout  
+- 🔁 **Reusable components (Button, PageLayout, Title)** → consistent UI, less cognitive load  
+- 🎨 **MUI + CSS Modules** → responsive, accessible design, stable theming  
+- 🐞 **URL logging for debugging** → easier bug reproduction, higher reliability  
 
-✅ **Reusable components**: Button, PageLayout, Title.
+---
 
-✅ Styling partially done with **MUI**.
+## 📊 Potential Impact  
+- ↓ **Time-to-Product**  
+- ↑ **Add-to-Cart rate**  
+- ↑ **Checkout completion**  
+- ↓ **Bounce rate** during filtering  
+- ↑ **Share rate** via URLs  
 
-<p align="left">
-⚙️ Technical Features
-🧮 React 
-🧮 Custom hooks (**useFetch and others**).
+---
 
-🔍 Logging of full URL with parameters for debugging.
+## 🔹 Results  
+- ⚡ Fast filtering → products found in 2–3 clicks  
+- 🌐 Shareable search results → closer to real e-commerce functionality  
+- 📈 Scalable architecture → easy to extend with new categories and filters  
+- 🚀 Improved **SEO** and navigation  
 
-🧱 Request decorator with ID and support for multiple parameters.
+---
 
-⚡ Memoization with **React.memo, useMemo, useCallback** — for optimization.
+## 🧑‍💻 Lessons Learned  
+- How to structure **Redux + Thunk architecture**  
+- How to persist **filter state in URL** (important for SEO & UX)  
+- How to **optimize rendering** with memoization  
+- How to combine styling approaches (**MUI + CSS Modules**)  
+- How to deploy a **full-stack project**  
 
-✂️ Trimming strings coming from the backend — managing displayed text.
-</p>
+---
 
-🧑‍💻 What I Learned
-How to properly organize Redux architecture using Thunk.
+## ⚙️ Tech Stack  
+- **Frontend:** React, Redux Toolkit, Redux Thunk, MUI, CSS Modules  
+- **Backend:** Node.js, Express, MySQL  
+- **Other:** Custom Hooks (useFetch, usePagination), JWT Auth, REST API  
 
-How to implement convenient and precise filtering with state saved in the URL.
-
-How to optimize component rendering.
-
-How to combine styling using MUI and CSS modules.
-
-How to deploy backend and frontend.
 <p align="left">
   <img src="https://github.com/katroienko/pet-shop-frontend/blob/master/petPhoto/1.jpg?raw=true" width="200" title="Pet Shop Screenshot">
   <img src="https://github.com/katroienko/pet-shop-frontend/blob/master/petPhoto/2.jpg?raw=true" width="200" title="Pet Shop Screenshot">

@@ -1,4 +1,4 @@
-## [Pet Shop web site](https://pet-shop-frontend-ten.vercel.app/) 
+## 🐾 [Pet Shop web site](https://pet-shop-frontend-ten.vercel.app/) 
 <p align="left">
   <a href="https://github.com/katroienko/pet-shop-frontend/tree/master" target="_blank" style="text-decoration:none;">
     <button style="padding:10px 20px; font-size:16px; cursor:pointer;">Look Front-End code</button>
@@ -19,9 +19,9 @@
  </a>
 </p>
 <div style="font-size: 10px; line-height:1.4">
-🐾 Pet Shop — Online Store-modern full-stack e-commerce project built from scratch with full frontend + backend integration.   
-  
-I created **Pet Shop** — an online store with a real-world feature set. I built **Pet Shop** — a full-stack e-commerce project designed not just to work, but to **deliver long-term business value**.  
+ Pet Shop — Online Store-modern full-stack e-commerce project built from scratch with full frontend + backend integration.A **modern headless full-stack e-commerce project** built from scratch with complete **frontend + backend separation**. The frontend (React + Redux) communicates with the backend (Node.js + Express + MySQL/MongoDB) exclusively via REST API.  
+✅ **This headless** architecture makes the project **scalable, maintainable, and closer to modern enterprise e-commerce platforms** (Shopify Plus, BigCommerce, Commercetools).  
+ I built **Pet Shop** — a full-stack e-commerce project designed not just to work, but to **deliver long-term business value**.  
 
 ### 🚀 Key Features & Business Value  
 - 🔎 **URL-synchronized filters (state in URL)**  Users can share exact search results with friends or support teams. **Business value:** improves collaboration, boosts organic traffic (SEO-indexable URLs), reduces abandoned searches.
@@ -32,13 +32,12 @@ I created **Pet Shop** — an online store with a real-world feature set. I buil
 - 📄 **Custom pagination (usePagination)**  Predictable navigation, scroll position saved. **Business value:** smoother user journey → higher retention, fewer drop-offs during browsing.  
 
 - 🗂 **Redux Toolkit + Thunk**  Centralized state, race-condition safe.  **Business value:** fewer production bugs, easier team collaboration, scalable codebase for future features.  
+
+⚙️ Tech Stack:   **Frontend:** React, Redux Toolkit, Redux Thunk, MUI, CSS Modules  - **Backend:** Node.js, Express, MySQL  - **Other:** Custom Hooks (useFetch, usePagination), JWT Auth, REST API 
+
 <a href="https://github.com/katroienko/pet-shop-frontend/blob/master/docs/README.readmore.pet-shop.md" target="_blank" style="text-decoration:none;">
-    <button style="padding:10px 20px; font-size:16px; cursor:pointer;">ead more details about the Pet Shop project-shop</button>
+    <button style="padding:10px 20px; font-size:16px; cursor:pointer;">Read more details about the Pet Shop project-shop</button>
   </a>
-
-
-## ⚙️ Tech Stack  
-- **Frontend:** React, Redux Toolkit, Redux Thunk, MUI, CSS Modules  - **Backend:** Node.js, Express, MySQL  - **Other:** Custom Hooks (useFetch, usePagination), JWT Auth, REST API  
 <p align="left">
   <img src="https://github.com/katroienko/pet-shop-frontend/blob/master/petPhoto/1.jpg?raw=true" width="200" title="Pet Shop Screenshot">
   <img src="https://github.com/katroienko/pet-shop-frontend/blob/master/petPhoto/2.jpg?raw=true" width="200" title="Pet Shop Screenshot">

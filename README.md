@@ -33,7 +33,7 @@ I created **Pet Shop** — an online store with a real-world feature set. I buil
 
 - 🗂 **Redux Toolkit + Thunk**  Centralized state, race-condition safe.  **Business value:** fewer production bugs, easier team collaboration, scalable codebase for future features.  
 <a href="https://github.com/katroienko/pet-shop-frontend/blob/master/docs/README.readmore.pet-shop.md" target="_blank" style="text-decoration:none;">
-    <button style="padding:10px 20px; font-size:16px; cursor:pointer;">Read more details about project pet-shop</button>
+    <button style="padding:10px 20px; font-size:16px; cursor:pointer;">ead more details about the Pet Shop project-shop</button>
   </a>
 
 

@@ -60,7 +60,7 @@
  </a>
 </p>
 
-A high‑performance **RESTful API** built with **Node.js + Express** for real e‑commerce scenarios: secure **JWT** authentication, role‑based access (**RBAC**), product/order management, image uploads (**Multer**), and **real‑time** events via **WebSocket** (order statuses, admin notifications). Data is stored in **MongoDB** with models defined via **Mongoose**.
+A high‑performance **RESTful API** built with **Node.js + Express** for real e‑commerce scenarios: secure **JWT** authentication, role‑based access (**RBAC**), product/order management, image uploads (**Multer**), and **real‑time** events via **WebSocket** (order statuses, admin notifications). Data is stored in **MongoDB** with models defined via **Mongoose**.I developed a backend that helps online stores sell faster, scale easier, and operate more reliably.
 
 > **Impact:** Reduced order processing time and improved checkout reliability through REST architecture, RBAC, WebSocket status updates, secure JWT authentication, and MongoDB/Mongoose. 
 ### 💼 Business Value

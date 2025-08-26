@@ -65,19 +65,10 @@ A high‑performance **RESTful API** built with **Node.js + Express** for real e
 > **Impact:** Reduced order processing time and improved checkout reliability through REST architecture, RBAC, WebSocket status updates, secure JWT authentication, and MongoDB/Mongoose. 
 ### 💼 Business Value
 
-- **Faster path to purchase:** robust REST endpoints + instant status updates reduce friction.  
-- **Secure by default:** JWT + bcrypt + RBAC → fewer incidents and manual errors.  
-- **Scale‑ready:** modular architecture, horizontal scaling, flexible data model.
+- **Faster path to purchase:** robust REST endpoints + instant status updates reduce friction.  - **Secure by default:** JWT + bcrypt + RBAC → fewer incidents and manual errors.  - **Scale‑ready:** modular architecture, horizontal scaling, flexible data model.
 
 ### 📦 Tech Stack (at a glance)
-- **Node.js** + **Express.js** — RESTful API
-- **MongoDB** + **Mongoose** — remote database
-- **WebSocket** — real-time communication
-- **jsonwebtoken (JWT)** — token-based authentication
-- **bcrypt** — secure password hashing
-- **multer** — file/image upload
-- **cors** — cross-origin requests
-- **dotenv** — environment variable management
+- **Node.js** + **Express.js** — RESTful API - **MongoDB** + **Mongoose** — remote database - **WebSocket** — real-time communication - **jsonwebtoken (JWT)** — token-based authentication - **bcrypt** — secure password hashing - **multer** — file/image upload - **cors** — cross-origin requests - **dotenv** — environment variable management
 ---
 
 ## 🧱 Selected Technologies & Why (benefit → problem solved)

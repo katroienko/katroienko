@@ -21,9 +21,6 @@
 <div style="font-size: 10px; line-height:1.4">
 🐾 Pet Shop — Online Store-modern full-stack e-commerce project built from scratch with full frontend + backend integration.   
   
-## 🔹 Problem  
-Most educational e-commerce projects are limited to static pages or primitive filtering. As a result, users cannot quickly find the right product, and employers have difficulty evaluating the developer’s real skill level.  
-## 🔹 Solution  
 I created **Pet Shop** — an online store with a real-world feature set. I built **Pet Shop** — a full-stack e-commerce project designed not just to work, but to **deliver long-term business value**.  
 
 ### 🚀 Key Features & Business Value  
@@ -35,20 +32,10 @@ I created **Pet Shop** — an online store with a real-world feature set. I buil
 - 📄 **Custom pagination (usePagination)**  Predictable navigation, scroll position saved. **Business value:** smoother user journey → higher retention, fewer drop-offs during browsing.  
 
 - 🗂 **Redux Toolkit + Thunk**  Centralized state, race-condition safe.  **Business value:** fewer production bugs, easier team collaboration, scalable codebase for future features.  
+<a href="https://github.com/katroienko/pet-shop-frontend/blob/master/docs/README.readmore.pet-shop.md" target="_blank" style="text-decoration:none;">
+    <button style="padding:10px 20px; font-size:16px; cursor:pointer;">Read more details about project pet-shop</button>
+  </a>
 
-- 🧠 **Memoization (React.memo, useMemo, useCallback)**  Prevents unnecessary re-renders, smoother UI.  **Business value:** better performance → happier users, less strain on infrastructure.  
-
-- 🧭 **Breadcrumbs** Clear navigation, SEO boost.  **Business value:** improves discoverability in Google, reduces bounce rate, drives organic traffic.  
-
-- 🛡 **Request decorator**Cancels outdated responses, UI always fresh. **Business value:** avoids confusing stale data, lowers support tickets, builds user trust.  
-
-- 📝 **Form validation & error handling**. Clear messages, no lost input.  **Business value:** fewer checkout abandonments, smoother customer journey, more completed purchases.  
-
-- 🔁 **Reusable components (Button, PageLayout, Title)**  Consistent UI, less cognitive load. **Business value:** reduces dev time, ensures consistent branding, lowers long-term maintenance cost.  
-
-- 🎨 **MUI + CSS Modules** Responsive, accessible design with stable theming.**Business value:** one codebase adapts to all devices, better brand perception, improved user trust.  
-
-- 🐞 **URL logging for debugging**.Easier bug reproduction and fixing.  **Business value:** faster QA cycles, lower development costs, higher platform reliability.  
 
 ## ⚙️ Tech Stack  
 - **Frontend:** React, Redux Toolkit, Redux Thunk, MUI, CSS Modules  - **Backend:** Node.js, Express, MySQL  - **Other:** Custom Hooks (useFetch, usePagination), JWT Auth, REST API  

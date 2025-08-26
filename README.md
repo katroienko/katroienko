@@ -11,7 +11,7 @@
   <a href="https://pet-shop-frontend-ten.vercel.app/" target="_blank" style="text-decoration:none;">
     <button style="padding:10px 20px; font-size:16px; cursor:pointer;">Look web site</button>
   </a>
-</p>
+
 📖 Available in:  
 <a href="https://github.com/katroienko/pet-shop-frontend/blob/master/docs/README.ru.md" target="_blank" style="text-decoration:none;">
     <button style="padding:10px 20px; font-size:16px; cursor:pointer;"> [🇷🇺 Русский]</button>
@@ -19,7 +19,7 @@
   <a href="https://github.com/katroienko/pet-shop-frontend/blob/master/docs/README.ru.md" target="_blank" style="text-decoration:none;">
     <button style="padding:10px 20px; font-size:16px; cursor:pointer;"> [🇩🇪 Deutsch]</button>
  </a>
-
+</p>
 
  
 # 🐾 Pet Shop — Online Store  

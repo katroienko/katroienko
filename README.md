@@ -20,6 +20,7 @@
 </p>
 <div style="font-size: 10px; line-height:1.4">
 🐾 Pet Shop — Online Store-modern full-stack e-commerce project built from scratch with full frontend + backend integration.   
+  
 ## 🔹 Problem  
 Most educational e-commerce projects are limited to static pages or primitive filtering. As a result, users cannot quickly find the right product, and employers have difficulty evaluating the developer’s real skill level.  
 ## 🔹 Solution  

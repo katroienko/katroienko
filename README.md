@@ -11,12 +11,12 @@
   <a href="https://pet-shop-frontend-ten.vercel.app/" target="_blank" style="text-decoration:none;">
     <button style="padding:10px 20px; font-size:16px; cursor:pointer;">Look web site</button>
   </a>   📖 Available in:  
-<a href="https://github.com/katroienko/pet-shop-frontend/blob/master/docs/README.ru.md" target="_blank" style="text-decoration:none;">
-    <button style="padding:10px 20px; font-size:16px; cursor:pointer;"> [🇷🇺 Русский]</button>
-  </a> 
   <a href="https://github.com/katroienko/pet-shop-frontend/blob/master/docs/README.ru.md" target="_blank" style="text-decoration:none;">
     <button style="padding:10px 20px; font-size:16px; cursor:pointer;"> [🇩🇪 Deutsch]</button>
  </a>
+  <a href="https://github.com/katroienko/pet-shop-frontend/blob/master/docs/README.ru.md" target="_blank" style="text-decoration:none;">
+    <button style="padding:10px 20px; font-size:16px; cursor:pointer;"> [🇷🇺 Русский]</button>
+  </a> 
 </p>
 
  Pet Shop — Online Store-modern **modern headless full-stack e-commerce project** built from scratch with full frontend + backend integration, separation. The frontend (React + Redux) communicates with the backend (Node.js + Express + MySQL/MongoDB) exclusively via REST API.   **This headless** architecture makes the project **scalable, maintainable, and closer to modern enterprise e-commerce platforms** (Shopify Plus, BigCommerce, Commercetools). Project designed not just to work, but to **deliver long-term business value**.  

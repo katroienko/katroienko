@@ -19,8 +19,7 @@
  </a>
 </p>
 
- Pet Shop — Online Store-modern full-stack e-commerce project built from scratch with full frontend + backend integration.A **modern headless full-stack e-commerce project** built from scratch with complete **frontend + backend separation**. The frontend (React + Redux) communicates with the backend (Node.js + Express + MySQL/MongoDB) exclusively via REST API.  
-✅ **This headless** architecture makes the project **scalable, maintainable, and closer to modern enterprise e-commerce platforms** (Shopify Plus, BigCommerce, Commercetools).  I built **Pet Shop** — a full-stack e-commerce project designed not just to work, but to **deliver long-term business value**.  
+ Pet Shop — Online Store-modern **modern headless full-stack e-commerce project** built from scratch with full frontend + backend integration, separation. The frontend (React + Redux) communicates with the backend (Node.js + Express + MySQL/MongoDB) exclusively via REST API.   **This headless** architecture makes the project **scalable, maintainable, and closer to modern enterprise e-commerce platforms** (Shopify Plus, BigCommerce, Commercetools). Project designed not just to work, but to **deliver long-term business value**.  
 
 ⚙️ Tech Stack:   **Frontend:** React, Redux Toolkit, Redux Thunk, MUI, CSS Modules  - **Backend:** Node.js, Express, MySQL  - **Other:** Custom Hooks (useFetch, usePagination), JWT Auth, REST API 
 
